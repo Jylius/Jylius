@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23ff69b4&size=30&center=true&height=80&lines=Hi there!  I'm Orkun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23ff69b4&size=30&center=true&height=80&lines=Hi there!  I'm Orkun;Welcome To My Profile" alt="Typing SVG" />
 </p>
 
 ## 🌟 My Skills
