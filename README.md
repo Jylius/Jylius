@@ -27,18 +27,21 @@
 - <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxtjs" width="40"/> **Nuxtjs**
 
 ## 🚀 GitHub Statistics
-
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jylius&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jylius&theme=radical" alt="GitHub Streak" />
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jylius&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
+</p> 
+-->
 
 ## Random Bullshit Go 🌌✨
 
