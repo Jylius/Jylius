@@ -43,7 +43,5 @@
 </p> 
 -->
 
-## Random Bullshit Go 🌌✨
-
 <p align="center">
 </p>
