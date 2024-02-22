@@ -46,5 +46,4 @@
 ## Random Bullshit Go 🌌✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23ff69b4&size=40&center=true&vCenter=true&width=800&height=100&lines=Zart+Zurt;ZOOOOOORRRTTT;" alt="Typing SVG" />
 </p>
